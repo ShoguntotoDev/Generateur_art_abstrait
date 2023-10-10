@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.controls {
+    margin-bottom: 20px;
+}
+
+canvas {
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    border: 1px solid #ccc;
+    position: relative;
+    overflow: hidden;
+}
+
+button {
+    margin-right: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+.square {
+    width: 30px;
+    height: 30px;
+    background-color: #ff5733; /* Couleur au choix */
+    border-radius: 0; /* Carré */
+}
