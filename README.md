@@ -20,7 +20,7 @@ Une vidéo détaillée présentant le fonctionnement et le code de ce projet est
 
 ## Clonez ce repository sur votre machine locale :
 ```bash
-git clone https://github.com/votre-utilisateur/generateur-art-abstrait.git
+git clone https://github.com/ShoguntotoDev/Generateur_art_abstrait
 ```
 
 ### Projet réalisé pour une vidéo youtube, by Shoguntoto
